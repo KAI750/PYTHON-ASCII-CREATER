@@ -28,7 +28,7 @@ YOU CAN GET COUSTOM FONT AT [FONT.TXT](/font.txt).<div align="left"><img src="/i
 
 > STEP_5: RESULT WILL BE DISPLAY ON CONSOLE TAB AND IT WILL BE SAVE IN [ASCII](/ascii).
 
-RUN ON [REPLIT](https://replit.com/@KAI-GAMINGGAMIN/DISCORD-TOKEN-CHECKER-BY-BB)
+RUN ON [REPLIT](https://replit.com/@KAI-GAMINGGAMIN/DISCORD-TOKEN-CHECKER-BY-BB) , [GITHUB](https://github.com/KAI750/PYTHON-ASCII-CREATER)
 
 
 ## 🔴 [Support Server](https://discord.gg/BB7)
