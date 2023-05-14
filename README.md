@@ -28,9 +28,20 @@ YOU CAN GET COUSTOM FONT AT [FONT.TXT](/font.txt).<div align="left"><img src="/i
 
 > STEP_5: RESULT WILL BE DISPLAY ON CONSOLE TAB AND IT WILL BE SAVE IN [ASCII](/ascii).
 
-RUN ON [REPLIT](https://replit.com/@KAI-GAMINGGAMIN/DISCORD-TOKEN-CHECKER-BY-BB) , [GITHUB](https://github.com/KAI750/PYTHON-ASCII-CREATER)
+## 🏃 RUN ON
+ [REPLIT](https://replit.com/@KAI-GAMINGGAMIN/DISCORD-TOKEN-CHECKER-BY-BB)
+ 
+ [GITHUB](https://github.com/KAI750/PYTHON-ASCII-CREATER)
 
+## 🔗 MORE LINKS
+ [Discord Server](https://discord.gg/BB7)
 
+ [Website](blackblood.com)
+ 
+ [Replit](https://replit.com/@KAI-GAMINGGAMIN)
+ 
+ [Github](https://github.com/KAI750)
+ 
 ## 🔴 [Support Server](https://discord.gg/BB7)
 
 Do you have any issues with the PROGRAM? Head to our [Discord Server](https://discord.gg/BB7) or [Website](blackblood.com) where we can help you faster than creating a GitHub issue.
